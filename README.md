@@ -1,5 +1,5 @@
 # Unity_FishCatchingGame
-![Gif of the game being played](https://i.gyazo.com/84c30da9382d50e2c9af287a8350b86c.gif)
+[![Gif of Game Being Played](https://i.gyazo.com/84c30da9382d50e2c9af287a8350b86c.gif)](https://gyazo.com/84c30da9382d50e2c9af287a8350b86c)
 ## Fish
 The Fish prefab uses a Sprite Renderer, Rigidbody 2D, Capsule Collider 2D, and a FishDespawn Script.
 The Sprite Renderer simply holds the reference to the image of the fish (“FishF-3”), a free asset found in the Unity store.
