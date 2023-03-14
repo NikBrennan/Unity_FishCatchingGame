@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Explosion
+  - Fish
+  - Bomb
+  - NetFront
+  - FishSpawner
+  - BombSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Fish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1697800621
+    locked: 0
+  - name: NetBack
+    uniqueID: 3565062137
+    locked: 0
+  - name: Fish
+    uniqueID: 2755183527
+    locked: 0
+  - name: Bomb
+    uniqueID: 2498644459
+    locked: 0
+  - name: NetFront
+    uniqueID: 105381463
+    locked: 0
+  - name: Explosion
+    uniqueID: 1575988249
+    locked: 0
